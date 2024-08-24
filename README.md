@@ -60,8 +60,4 @@ Feel free to fork the repository and submit pull requests. If you encounter any 
 
 ## Contact
 
-For any questions or inquiries, please contact [jsam2k4.pro.com].
-
-```
-
-Feel free to adjust any parts of this `README.md` to better fit the specifics of your project!
+For any questions or inquiries, please contact [jsam2k4.pro.com]
