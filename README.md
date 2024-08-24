@@ -1,6 +1,3 @@
-Sure! Here's a sample `README.md` for your chatbot project:
-
-```markdown
 # Chatbot Project
 
 ## Overview
